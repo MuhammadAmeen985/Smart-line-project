@@ -1,0 +1,7 @@
+{
+  "name": "Industrial IoT & Smart Line Planner",
+  "description": "A comprehensive engineering tool for designing, planning, and simulating industrial automation systems for SMEs, featuring AI-driven architecture design, database schema generation, and a real-time voice assistant for maintenance consulting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
