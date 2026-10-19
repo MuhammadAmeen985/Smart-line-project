@@ -1,4 +1,4 @@
-![Smart Line Automation](images/smart-line-automation.png)
+
 
 # Run and deploy your AI Studio app
 
