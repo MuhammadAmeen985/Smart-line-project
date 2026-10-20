@@ -1,0 +1,1 @@
+Contributions to this project are welcome! To propose changes, please start by opening an issue to discuss your ideas. Once approved, submit a pull request with your code and a clear description of the changes. Ensure your code follows the project's standards and that all tests pass.
